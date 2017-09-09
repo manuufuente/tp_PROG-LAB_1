@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1504476104 source:c:\users\manuu\desktop\manu\tp_1_cascara\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1504473973 c:\users\manuu\desktop\manu\tp_1_cascara\tp_1_cascara\funciones.h
+
+1504476187 source:c:\users\manuu\desktop\manu\tp_1_cascara\tp_1_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1504476227 source:c:\users\manuu\desktop\tp n1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1504473973 c:\users\manuu\desktop\tp n1\funciones.h
+
+1504923993 source:c:\users\manuu\desktop\tp n1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
