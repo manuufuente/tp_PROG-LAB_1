@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1505954187 source:c:\users\manuu\desktop\manu\ejercicios\tp_n2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+
+1505955146 source:c:\users\manuu\desktop\manu\ejercicios\tp_n2\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+
+1505955146 c:\users\manuu\desktop\manu\ejercicios\tp_n2\funciones.h
+
+1505955146 source:c:\users\manuu\desktop\tp_n2\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+
+1506165821 c:\users\manuu\desktop\tp_n2\funciones.h
+
+1505955758 source:c:\users\manuu\desktop\tp_n2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+
